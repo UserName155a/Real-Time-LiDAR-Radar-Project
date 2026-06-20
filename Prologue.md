@@ -2,6 +2,9 @@ Spatial is an important thing in our everyday life, being able to know approxima
 
 
 ESP32-S3                    https://a.co/d/0ieqzWIv
+
 RPLiDAR C1                  https://a.co/d/099CuJgT
+
 USB-C Breakout Board        https://a.co/d/03r9oOnf
+
 MPU-6050                    https://a.co/d/00dg4qpP
