@@ -1,0 +1,3 @@
+Recently (around 6/18, the day before I wrote this), I fully transitioned to a Linux-based operating system called Fedora. Although everything was fine, or even better, on this new system, I ran into troubles with app compatibility. Although WINE does exist, it was not ideal for the software I wanted to run.
+
+(Software in question was SLAMTEC's frame_grabber for the RPLiDARs and maybe RoboStudio so i can check how the plotting works... Also Arduino IDE doesn't work the best on Fedora so it is safe to assume ESP-IDF wouldn't work well as well as the issue I'm having is with the serial, which is quite the mess on Linux in general.)
